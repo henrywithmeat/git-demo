@@ -14,6 +14,6 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello git pull test
 hello git master version
 hello git hot-fix tesx
